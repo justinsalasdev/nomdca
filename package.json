@@ -1,0 +1,20 @@
+{
+  "name": "nom-dca",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "next": "latest",
+    "next-auth": "3.1.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "styled-components": "5.2.1"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "description": ""
+}
